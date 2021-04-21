@@ -192,9 +192,11 @@ return [
 ];
 - 3，在浏览器中访问该项目！。
 
+
 # 注意
 1. 该项目只是用于学习、开发及测试阶段。安全性，效率等问题还有待提高。
 2. 使用功能详细的配置项功能可以在 Config/app.php 中查看配置
+
 
 # 感谢
 感谢 [jQuery](https://github.com/jquery/jquery) 、[ace](https://github.com/ajaxorg/ace) 、 [jstree](https://github.com/vakata/jstree) 、 [layer](https://github.com/sentsin/layer) 、[H-ui 前端框架](http://www.h-ui.net/) 、[adminer](https://github.com/vrana/adminer)
