@@ -200,9 +200,5 @@ return [
 1. 该项目只是用于学习、开发及测试阶段。安全性，效率等问题还有待提高。
 2. 使用功能详细的配置项功能可以在 Config/app.php 中查看配置
 
-# 个人公众号
-更多开源组件、项目请走传送门
-![微信公众号](https://www.yundaohang.net/tuoguan/wx.png "个人公众号")
-
 # 感谢
 感谢 [jQuery](https://github.com/jquery/jquery) 、[ace](https://github.com/ajaxorg/ace) 、 [jstree](https://github.com/vakata/jstree) 、 [layer](https://github.com/sentsin/layer) 、[H-ui 前端框架](http://www.h-ui.net/) 、[adminer](https://github.com/vrana/adminer)
